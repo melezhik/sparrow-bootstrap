@@ -7,4 +7,4 @@ Bootstrap Sparrow on Different OS
 
 ## Minoca
 
-`wget --no-check-certificate https://raw.githubusercontent.com/melezhik/sparrow-bootstrap/master/minoca.sh | sh`
+`wget --no-check-certificate -O - https://raw.githubusercontent.com/melezhik/sparrow-bootstrap/master/minoca.sh | sh`
