@@ -8,7 +8,7 @@ Bootstrap Sparrow on Different OS
 ## Minoca
 
     $ ssh minoca-instance
-    $ wget --no-check-certificate -O - https://raw.githubusercontent.com/melezhik/sparrow-bootstrap/master/minoca.sh | sh
+    $ wget -O - http://sparrowhub.org/minoca.sh | sh
 
 ### Prerequisitives
 
